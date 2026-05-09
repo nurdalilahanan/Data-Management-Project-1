@@ -1,11 +1,13 @@
 # 🌸 Iris Classification using Spark MLlib
 <img width="1984" height="1488" alt="image" src="https://github.com/user-attachments/assets/57395df3-3652-4083-bb7a-a7f75bebf08a" />
+<img width="2816" height="1536" alt="Gemini_Generated_Image_hrz4qghrz4qghrz4" src="https://github.com/user-attachments/assets/3d78bed5-8dee-4014-baba-6647dad173f5" />
+
 
 ## 🔎 Project Overview
 
 This project presents a supervised machine learning workflow implemented using Apache Spark MLlib to classify Iris flower species based on their morphological features. The objective is not merely to build predictive models, but to demonstrate a structured and scalable approach to classification within a distributed computing framework.
 
-Three classification models—Logistic Regression, Decision Tree, and Random Forest—are developed and optimised using cross-validation and grid search techniques. By comparing models that represent different learning paradigms, this project provides insights into how model complexity, interpretability, and generalisation trade-offs influence performance in practical data science applications.
+Three classification models which are Logistic Regression, Decision Tree, and Random Forest are developed and optimised using cross-validation and grid search techniques. By comparing models that represent different learning paradigms, this project provides insights into how model complexity, interpretability, and generalisation trade-offs influence performance in practical data science applications.
 
 ## 🌼 Dataset Description
 
